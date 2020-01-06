@@ -5,7 +5,7 @@ In development. Main script is ready. But run on startup is researched.
 # System
 It is developed at Ubuntu 19.10
 # Use
-Edit script at begin, define `main_dir` variable.
+Edit script at begin, define `main_dir` variable (path to dir with all local websites).
 So run by
 ```
 sudo ./serve_local_websites.sh
